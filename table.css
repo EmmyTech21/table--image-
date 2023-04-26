@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+    font-size: 22px;
+    background-color: lightcoral;
+}
+
+table,tr, td{
+    border: 2px solid black;
+    text-align: center;
+    border-collapse:collapse ;
+}
+
+img{
+    width: 100px;
+}
+
+table{
+    margin: 30px 40px;
+}
